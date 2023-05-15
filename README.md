@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there my name is Vladislav 👋
+[![wakatime](https://wakatime.com/badge/user/accfd149-c9b0-45f1-8a87-d113aa1ee12a.svg)](https://wakatime.com/@accfd149-c9b0-45f1-8a87-d113aa1ee12a)
+![views](https://komarev.com/ghpvc/?username=wellder00&label=profile+views&color=green)
 
+## Project:
+<a href="https://wellder00.github.io/virtual-keyboard/" target="_blanc">
+    virtual-keyboard
+</a> - keybord matrix style
 <!--
 **wellder00/wellder00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
