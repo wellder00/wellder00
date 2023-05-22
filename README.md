@@ -21,7 +21,9 @@
    Dec Base
 </a> - Interior site<br>
 
-
+<a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/self-introduction/" target="_blanc">
+   Minesweeper
+</a> - Minesweeper game<br>
 
 
 
