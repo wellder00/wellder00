@@ -46,4 +46,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-[![codewars](https://www.codewars.com/users/LilithPrimary/badges/micro)](https://www.codewars.com/users/LilithPrimary)
+[![codewars](https://www.codewars.com/users/LilithPrimary/badges/micro)](https://www.codewars.com/users/wellder00)
