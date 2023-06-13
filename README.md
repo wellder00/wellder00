@@ -30,6 +30,10 @@
    Minesweeper
 </a> - Minesweeper game<br>
 
+<a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/migration-ts/" target="_blanc">
+   TS News
+</a> - migration newip to ts<br>
+
 ![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
