@@ -34,6 +34,10 @@
    TS News
 </a> - migration newip to ts<br>
 
+<a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/rss-css-selectors/" target="_blanc">
+   TS News
+</a> - css selectors trainer<br>
+
 ![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
